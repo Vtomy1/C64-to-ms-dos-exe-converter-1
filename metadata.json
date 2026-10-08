@@ -1,0 +1,6 @@
+{
+  "name": "C64 to MS-DOS EXE Converter",
+  "description": "Authentic Commodore 64 ROM to MS-DOS executable packaging workstation with VIC-II VGA Mode 13h palette bridging and SID sound engine emulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
